@@ -1,0 +1,54 @@
+
+/**{
+    outline: 1px dotted red;
+}*/
+.container{
+    border: 1px gray;
+    border-style: solid;
+    width: 550px;
+    height: 260px;
+    padding: 10px;
+    
+    
+
+}
+
+.top{
+    width: 571px;
+    background-color: rgb(56, 140, 209);
+    margin:  auto;
+    margin-top: 50px; 
+    height: 70px;
+    
+    
+    
+    
+}
+
+
+img{
+    margin-right: auto;
+    width: 15%;
+}
+
+.img1{
+
+    width: 10px; 
+}
+
+h3{
+    margin-top: 10px;
+}
+
+p{
+    display: inline;
+}
+
+.text{
+margin-top: -15px ; 
+}
+
+
+.img2{
+    width: 20px; 
+}
